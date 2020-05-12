@@ -8,5 +8,5 @@ a Sudoku solver using backtracking
 
 ### To Do List
 
-[ ]Implement a pygame Sudoku Solver version to illustrate the step-by-step process.
+- [ ]Implement a pygame Sudoku Solver version to illustrate the step-by-step process.
 
