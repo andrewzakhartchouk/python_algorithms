@@ -5,3 +5,8 @@ Examples of my attempts at various algorithms and recursion
 a Sudoku solver using backtracking
 
 ![](./sudoku/backtrack_sudoku.gif)
+
+### To Do List
+
+[ ]Implement a pygame Sudoku Solver version to illustrate the step-by-step process.
+
