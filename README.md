@@ -9,6 +9,6 @@ a Sudoku solver using backtracking
 ### To Do List
 
 - [ ] Implement a pygame Sudoku Solver version to illustrate the step-by-step process.
-- [ ] Four Queens
-    -　[ ] Switch to N Queens
+- [X] Four Queens
+    -　Switch to N Queens
 - [ ] Basic recursive function collection
