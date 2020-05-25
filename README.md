@@ -12,4 +12,5 @@ a Sudoku solver using backtracking
 - [X] Four Queens
     
     -　Switch to N Queens
+    -　Print solution
 - [ ] Basic recursive function collection
